@@ -87,5 +87,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Images from ``Unsplash``
 - Icons and design inspiration from various open-source projects
 
-### Created by ```vkprogrammer-001``` - 2025
+---
+Made with ❤️ by [vkprogrammer-001](https://github.com/vkprogrammer-001)
 
