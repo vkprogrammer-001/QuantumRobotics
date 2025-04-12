@@ -84,7 +84,7 @@ The project uses Google Fonts. You can modify the font imports in the ```index.h
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Acknowledgments
-- Images from ``Unsplash``
+- Images from [Unsplash](https://unsplash.com/)
 - Icons and design inspiration from various open-source projects
 
 ---
